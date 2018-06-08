@@ -17,7 +17,7 @@
 - (add link(s) to English introduction to Library homepage)
 
 
-# Geographical DGIST
+# DGIST Geography
 ## Maps
 - (map for total view)
 - (maps for each buildings)
@@ -29,7 +29,7 @@
 - In case of rainy day:
  - ...
 
-## Cafe / Restaurant / Stores etc. in DGIST
+## Cafe / Restaurant / Stores
 ### (for each place, include the followings:)
 - where are they
 ### GS25

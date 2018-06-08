@@ -11,4 +11,8 @@
 
 
 
+# Search Engine
+## Some ideas
+- SQLite3
+- a full-text search (using FTS3)
 
